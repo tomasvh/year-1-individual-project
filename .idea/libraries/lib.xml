@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://C:/Jars/fontbox-2.0.19.jar!/" />
+      <root url="jar://C:/Jars/pdfbox-2.0.19.jar!/" />
+      <root url="jar://C:/Jars/UCanAccess-5.0.0-bin/UCanAccess-5.0.0-bin/ucanaccess-5.0.0.jar!/" />
+      <root url="file://C:/Jars/UCanAccess-5.0.0-bin/UCanAccess-5.0.0-bin/lib" />
+      <root url="file://C:/Jars/openjfx-14_windows-x64_bin-sdk/javafx-sdk-14/lib" />
+      <root url="jar://C:/Jars/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Jars/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://C:/Jars/openjfx-14_windows-x64_bin-sdk/javafx-sdk-14/lib" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Jars/openjfx-14_windows-x64_bin-sdk/javafx-sdk-14/lib" recursive="false" />
+    <jarDirectory url="file://C:/Jars/UCanAccess-5.0.0-bin/UCanAccess-5.0.0-bin/lib" recursive="false" />
+    <jarDirectory url="file://C:/Jars/openjfx-14_windows-x64_bin-sdk/javafx-sdk-14/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>

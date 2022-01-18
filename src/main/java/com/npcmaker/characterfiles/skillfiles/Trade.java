@@ -1,0 +1,14 @@
+package com.npcmaker.characterfiles.skillfiles;
+
+public class Trade extends Attribute {
+
+
+    public Trade(String name, int dice, int mod) {
+        super.setName(name);
+        super.changeDice(dice);
+        super.changeMod(mod);
+    }
+
+
+
+}
